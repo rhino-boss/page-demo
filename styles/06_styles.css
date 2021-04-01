@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    border: 10px;
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+nav a{
+    display: inline-block;
+    padding: 0px 10px;
+    text-decoration: none;
+    color: white;
+}
+nav a:hover{
+    height: 100%;
+    background-color:orange;
+    transition: 0.5s;
+}
+h1{
+    font-size:5rem
+}
